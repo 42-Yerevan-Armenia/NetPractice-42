@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@PowerCertAnimatedVideos">
-    <img src="https://avinetworks.com/wp-content/uploads/2020/09/Subnet-mask-diagram.png">
+    <img src="https://github.com/Aramxxx8691/Git_Images/blob/master/net.png">
   </a>
 </p>
 
